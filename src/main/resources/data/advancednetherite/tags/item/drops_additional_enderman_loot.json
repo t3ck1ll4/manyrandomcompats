@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "manyrandomcompats:netherite_emerald_dragon_sword",
+      "required": false
+    },
+    {
+      "id": "manyrandomcompats:netherite_diamond_dragon_sword",
+      "required": false
+    }
+  ]
+}

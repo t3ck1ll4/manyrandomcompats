@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "manyrandomcompats:netherite_iron_dragon_boots",
+      "required": false
+    },
+    {
+      "id": "manyrandomcompats:netherite_gold_dragon_boots",
+      "required": false
+    },
+    {
+      "id": "manyrandomcompats:netherite_emerald_dragon_boots",
+      "required": false
+    },
+    {
+      "id": "manyrandomcompats:netherite_diamond_dragon_boots",
+      "required": false
+    }
+  ]
+}

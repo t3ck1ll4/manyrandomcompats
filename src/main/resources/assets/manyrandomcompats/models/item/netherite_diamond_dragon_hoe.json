@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "manyrandomcompats:item/netherite_diamond_dragon_hoe"
+  }
+}

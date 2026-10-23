@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "manyrandomcompats:netherite_iron_dragon_chestplate",
+      "required": false
+    },
+    {
+      "id": "manyrandomcompats:netherite_gold_dragon_chestplate",
+      "required": false
+    },
+    {
+      "id": "manyrandomcompats:netherite_emerald_dragon_chestplate",
+      "required": false
+    },
+    {
+      "id": "manyrandomcompats:netherite_diamond_dragon_chestplate",
+      "required": false
+    }
+  ]
+}

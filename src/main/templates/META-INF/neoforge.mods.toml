@@ -1,0 +1,46 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="GPL-3.0"
+
+[[mods]]
+modId="manyrandomcompats"
+version="1.0.0"
+displayName="Many Random Compats"
+authors=""
+description='''Compatibilidades entre mods. Cada compatibilidad se activa solo si sus mods están instalados. Incluye: Easy Emerald Tools + Advanced Netherite (paxels) y DragonLoot + Advanced Netherite (armaduras y herramientas Dragon por tier).'''
+
+[[dependencies.manyrandomcompats]]
+    modId="neoforge"
+    type="required"
+    versionRange="[21.1.0,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.manyrandomcompats]]
+    modId="minecraft"
+    type="required"
+    versionRange="[1.21.1]"
+    ordering="NONE"
+    side="BOTH"
+
+# Opcionales: el mod carga sin ellos; si están, se cargan antes que este.
+[[dependencies.manyrandomcompats]]
+    modId="easy_emerald"
+    type="optional"
+    versionRange="[1.6.33,)"
+    ordering="AFTER"
+    side="BOTH"
+
+[[dependencies.manyrandomcompats]]
+    modId="dragonloot"
+    type="optional"
+    versionRange="[1.1.16,)"
+    ordering="AFTER"
+    side="BOTH"
+
+[[dependencies.manyrandomcompats]]
+    modId="advancednetherite"
+    type="optional"
+    versionRange="[2.3.1,)"
+    ordering="AFTER"
+    side="BOTH"

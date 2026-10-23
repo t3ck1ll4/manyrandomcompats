@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "manyrandomcompats:netherite_diamond_paxel",
+      "required": false
+    },
+    {
+      "id": "manyrandomcompats:netherite_diamond_dragon_pickaxe",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "manyrandomcompats:netherite_iron_dragon_helmet",
+      "required": false
+    },
+    {
+      "id": "manyrandomcompats:netherite_gold_dragon_helmet",
+      "required": false
+    },
+    {
+      "id": "manyrandomcompats:netherite_emerald_dragon_helmet",
+      "required": false
+    },
+    {
+      "id": "manyrandomcompats:netherite_diamond_dragon_helmet",
+      "required": false
+    },
+    {
+      "id": "manyrandomcompats:netherite_iron_dragon_chestplate",
+      "required": false
+    },
+    {
+      "id": "manyrandomcompats:netherite_gold_dragon_chestplate",
+      "required": false
+    },
+    {
+      "id": "manyrandomcompats:netherite_emerald_dragon_chestplate",
+      "required": false
+    },
+    {
+      "id": "manyrandomcompats:netherite_diamond_dragon_chestplate",
+      "required": false
+    },
+    {
+      "id": "manyrandomcompats:netherite_iron_dragon_leggings",
+      "required": false
+    },
+    {
+      "id": "manyrandomcompats:netherite_gold_dragon_leggings",
+      "required": false
+    },
+    {
+      "id": "manyrandomcompats:netherite_emerald_dragon_leggings",
+      "required": false
+    },
+    {
+      "id": "manyrandomcompats:netherite_diamond_dragon_leggings",
+      "required": false
+    },
+    {
+      "id": "manyrandomcompats:netherite_iron_dragon_boots",
+      "required": false
+    },
+    {
+      "id": "manyrandomcompats:netherite_gold_dragon_boots",
+      "required": false
+    },
+    {
+      "id": "manyrandomcompats:netherite_emerald_dragon_boots",
+      "required": false
+    },
+    {
+      "id": "manyrandomcompats:netherite_diamond_dragon_boots",
+      "required": false
+    },
+    {
+      "id": "manyrandomcompats:netherite_iron_dragon_pickaxe",
+      "required": false
+    },
+    {
+      "id": "manyrandomcompats:netherite_gold_dragon_pickaxe",
+      "required": false
+    },
+    {
+      "id": "manyrandomcompats:netherite_emerald_dragon_pickaxe",
+      "required": false
+    },
+    {
+      "id": "manyrandomcompats:netherite_diamond_dragon_pickaxe",
+      "required": false
+    },
+    {
+      "id": "manyrandomcompats:netherite_iron_dragon_axe",
+      "required": false
+    },
+    {
+      "id": "manyrandomcompats:netherite_gold_dragon_axe",
+      "required": false
+    },
+    {
+      "id": "manyrandomcompats:netherite_emerald_dragon_axe",
+      "required": false
+    },
+    {
+      "id": "manyrandomcompats:netherite_diamond_dragon_axe",
+      "required": false
+    },
+    {
+      "id": "manyrandomcompats:netherite_iron_dragon_shovel",
+      "required": false
+    },
+    {
+      "id": "manyrandomcompats:netherite_gold_dragon_shovel",
+      "required": false
+    },
+    {
+      "id": "manyrandomcompats:netherite_emerald_dragon_shovel",
+      "required": false
+    },
+    {
+      "id": "manyrandomcompats:netherite_diamond_dragon_shovel",
+      "required": false
+    },
+    {
+      "id": "manyrandomcompats:netherite_iron_dragon_hoe",
+      "required": false
+    },
+    {
+      "id": "manyrandomcompats:netherite_gold_dragon_hoe",
+      "required": false
+    },
+    {
+      "id": "manyrandomcompats:netherite_emerald_dragon_hoe",
+      "required": false
+    },
+    {
+      "id": "manyrandomcompats:netherite_diamond_dragon_hoe",
+      "required": false
+    },
+    {
+      "id": "manyrandomcompats:netherite_iron_dragon_sword",
+      "required": false
+    },
+    {
+      "id": "manyrandomcompats:netherite_gold_dragon_sword",
+      "required": false
+    },
+    {
+      "id": "manyrandomcompats:netherite_emerald_dragon_sword",
+      "required": false
+    },
+    {
+      "id": "manyrandomcompats:netherite_diamond_dragon_sword",
+      "required": false
+    }
+  ]
+}

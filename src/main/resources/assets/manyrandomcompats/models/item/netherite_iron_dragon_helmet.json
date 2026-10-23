@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "manyrandomcompats:item/netherite_iron_dragon_helmet"
+  }
+}
